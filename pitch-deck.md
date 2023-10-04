@@ -15,8 +15,6 @@ marp: true
   }
 </style>
 
-<!-- # ReFill -->
-
 ![ReFill](assets/REFILL.png)
 
 Review-<span>Watch</span>-ReFill
@@ -27,23 +25,10 @@ Review-<span>Watch</span>-ReFill
 
 ---
 
-- **Growing Industry**
-  - *Chaos*
-  - *Rapid*
-- **Decentralized Platforms**
-  - *Separate*
-  - *Unfocused*
+![bg](assets/LetsImagine....png)
 
-<!-- 
-Nah pertama, apa yang kami maksud dengan "growing industry", bukankah industri yang berkembang itu positive?
-kenapa disini menjadi salah satu "problem"? industri film di indonesia, itu menyamakan perkembangan industri lain di indonesia,
-yaitu pesat, tapi berantakan. Bertumbuhnya populasi muda indonesia dan stabilnya ekonomi kelas menengah telah membuat
-perkembangan industri kreatif menjadi industri yang sangat ko mpetitif, tapi kecepatan itulah yang membuat "chaos" dalam perkembangan
-industri indonesia.
--->
-
-<!-- 
-point chaos tersebut menjadi point kedua kami, "decentralized platforms". Ada lebih dari 350 bioskop yang beroperasi, sekitar 3000 lebih layar di seluruh indonesia. Itupun masih sangat-sangat kecil dibanding dengan populasi dan juga negara lain. Tetapi dengan prospect industri yang sangat positive, tidak ada satupun aplikasi yang menurut kami mencukupi "bare standard" kualitas aplikasi modern untuk industri dengan kebesaran yang sebesar ini. 
+<!--
+Mari kita bayangkan suatu skenario, mungkin teman atau mungkin pasangan, mengajak kita untuk keluar bareng. Ada banyak kegiatan yang bisa kita lakukan kan? ke kafe, mabar, atau jika ada duitnya, nonton. Tapi pertanyaan paling pertama adalah... Mau nonton apa? lagi ada film apasih sih? itu adalah fondasi permasalah utama kami, dan solusi untuk masalah itu adalah...
 -->
 
 ---
@@ -52,22 +37,10 @@ point chaos tersebut menjadi point kedua kami, "decentralized platforms". Ada le
 
 ---
 
-<!--
-One ring to rule them all, one app to rule them all.
--->
-
-![bg ](assets/one-right.gif)
-
----
-
-<!-- 
-Dan App itu, adalah ReFill
--->
-
-![Refill](assets/REFILL.png)
+**Tix Id + letterboxd = <span>ReFill</span>**
 
 <!--
-ReFill adalah solusi kami
+Pergabungan antara aplikasi komunitas cinephiles letterboxd dengan fitur pembelian tiket seperti tix id 
 -->
 
 ---
@@ -75,7 +48,7 @@ ReFill adalah solusi kami
 ![bg](assets/prototype1.png)
 
 <!--
-Pergabungan antara aplikasi pembelian tiket dengan sosial media, ReFill akan menjadi aplikasi "all-in-one for cinema", dimana fitur review/sosial media akan membuat user lebih terbuka kepada release film film baru, dan setelah itu mereka tinggal membeli tiket di dalam aplikasi yang sama
+ReFill akan menjadi aplikasi "all-in-one for cinema", dimana fitur review/sosial media akan membuat user lebih terbuka kepada release film film baru, dan setelah itu mereka tinggal membeli tiket di dalam aplikasi yang sama
 -->
 
 ---
@@ -101,7 +74,7 @@ Bioskop bergantung pada 2 customer base utama, casual atau cinephiles, individua
 
 <!-- 
 50 Juta tiket bioskop terjual pada tahun 2018,
-230 film terrelease pada tahun 2019,
+150 film terrelease pada tahun 2019,
 sekitar 3000 layar dalam 300 bioskop di seluruh indonesia. Bayangkan berapa banyak lagi statistik ini akan berubah pada 5-10-15 tahun kedepan, dengan asumsi bahwa stabilitas dan ekonomi tetap mengalami kemajuan seperti sekarang, atau bahkan lebih. Kita melihat pada untapped market pada industry yang sangat tua pada era yang baru.
 -->
 
@@ -125,7 +98,7 @@ Tix id dan letterboxd menjadi sumber inspirasi utama aplikasi kami, karena itu m
 
 ---
 
-- Ticket Sales ***(10% comission)***
+- Ticket Sales
 - Advertisement
 
 ---
@@ -135,18 +108,6 @@ Walau ticket sales akan menjadi kontributor penting pada revenue kami, sebenarny
 -->
 
 ![bg](assets/businessmodel.png)
-
----
-
-## *Imp<span>act</span>*
-
----
-
-**Tix Id + letterboxd = <span>ReFill</span>**
-
-<!--
-Satu tempat dimana 
--->
 
 ---
 
@@ -182,8 +143,11 @@ Satu tempat dimana
 
 ---
 
-![bg](assets/milestone.png)
+![bg](assets/one-right.gif)
 
+---
+
+![bg](assets/milestone.png)
 
 ---
 
@@ -192,10 +156,6 @@ Satu tempat dimana
 ---
 
 ![bg](assets/team.png)
-
-<!-- ---
-
-## *Objective <span>and</span> Strategy* -->
 
 ---
 
